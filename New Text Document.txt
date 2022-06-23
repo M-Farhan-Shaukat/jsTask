@@ -1,0 +1,2 @@
+Inverse Method and Crammer rule for two Equations are working if the values are positive and if the values are negative it consider 
+negative value as positive and never consider negative .
